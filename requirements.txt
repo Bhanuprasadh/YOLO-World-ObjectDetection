@@ -1,0 +1,21 @@
+openmim
+mmcv>=2.0.0rc4,<2.1.0
+mmdet>=3.0.0
+mmengine>=0.7.1
+mmyolo
+gradio
+transformers
+addict
+yapf
+numpy
+opencv-python
+supervision==0.18.0
+ftfy
+regex
+pot
+sentencepiece
+tokenizers
+onnx
+onnxruntime
+# Optional: onnx-simplifier  # Required only for ONNX model optimization
+fastapi==0.111.0
