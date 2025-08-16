@@ -31,8 +31,6 @@ Major dependencies include:
    pip install -r requirements.txt
    ```
 
-## Usage
-[Add specific usage instructions based on your implementation]
 
 ## Project Structure
 ```
@@ -46,8 +44,6 @@ Major dependencies include:
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-[Add your license information]
 
 ## Updates
 This README is automatically updated with each change.
